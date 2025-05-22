@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Today Calendar Widget</string>
+    <string name="server_client_id" translatable="false">YOUR_SERVER_CLIENT_ID</string>
+</resources>
